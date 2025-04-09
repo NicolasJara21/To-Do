@@ -31,7 +31,7 @@ function App() {
       <div className="bg-gray-700 w-full h-[170px] font-mono">
         <div>
           {/* banner */}
-          <div className="bg-gray-800 w-full h-[60px]">
+          <div className="bg-gray-700 w-full h-[60px]">
             <div className="flex justify-center p-4">
               <img className="h-[27px] " src="/src/assets/logo.png"></img>
               <h1 className="pl-2 text-[20px] text-white">To-</h1>
