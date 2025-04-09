@@ -1,0 +1,32 @@
+1 Añadir tareas con un campo de texto y botón "Agregar".
+
+2 Marcar tareas como completadas con un checkbox.
+
+3 Eliminar tareas con un botón "Eliminar".
+
+4 Filtrar tareas por:
+
+Todas
+
+Pendientes
+
+Completadas
+
+5 Persistir las tareas en localStorage para que al recargar la página no se pierdan.
+
+Reglas:
+Usar React con TypeScript.
+
+Usar useState y/o useReducer según convenga.
+
+Componentizar la aplicación correctamente.
+
+No usar librerías externas para manejar estado (Redux, Zustand, etc.).
+
+Aplicar estilos con CSS o Tailwind.
+
+Extras (Opcionales, pero suman puntos):
+✅ Editar una tarea.
+✅ Agregar animaciones o transiciones.
+✅ Pruebas unitarias con Jest y React Testing Library.
+
